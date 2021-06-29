@@ -1,0 +1,28 @@
+{
+  "name": "webcast",
+  "version": "1.0.0",
+  "description": "test presentation api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/atlemagnussen/webcast.git"
+  },
+  "keywords": [
+    "web",
+    "cast",
+    "presentation"
+  ],
+  "author": "atlemagnussen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlemagnussen/webcast/issues"
+  },
+  "homepage": "https://github.com/atlemagnussen/webcast#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4",
+    "typescript-language-server": "^0.5.1"
+  }
+}
