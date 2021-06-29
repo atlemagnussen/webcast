@@ -1,0 +1,7 @@
+{
+	"compilerOptions": {
+        "outDir": "./public/build",
+		"module": "ES2020",
+		"moduleResolution": "node"
+	}
+}
