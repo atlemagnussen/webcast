@@ -2,6 +2,7 @@
 	"compilerOptions": {
         "outDir": "./public/build",
 		"module": "ES2020",
+        "lib": ["es2018", "DOM"],
 		"moduleResolution": "node"
 	}
 }
